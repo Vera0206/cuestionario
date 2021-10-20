@@ -1,16 +1,16 @@
 1 En tus palabras, ¿Qué es internet?
-r=
+r=una red donde puedes encontrar informacioon de todo tipo
 2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-r=
+r=En ambos casos la transmisión se realiza por medio de ondas electromagnéticas
 3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-r=
+r=Las direcciones IP, es decir los números del Protocolo Internet (Internet Protocol ... y privadas encuentra su lugar cuando se habla de IP
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-r=
+r=la cancion se escanea y ása por la red de internet y los servidores dde spotify para quee legue a tu celular
 5 Describe los protocolos que existen en internet, en específico HTTP y HTML
-r=
+r=TCP/IP FTP HTTP SMTP (mail) NNTP (news) IRC TELNET GOPHER
 6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-r=
+r=aprendi que son muy utiles para guerdr la informacion privadda y poder tenerlas seguras
 7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-r=
+r=que es muy importante mantenernos seguros
 8 ¿Cómo funciona la búsqueda de google?
-r=
+r=tu solo buscas la infoacion y gracias al internet nos a esa inforrmacion
